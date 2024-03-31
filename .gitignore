@@ -1,0 +1,5 @@
+DoomGame/*.png
+*.sln
+*.vcxproj*
+out/
+.vs/
